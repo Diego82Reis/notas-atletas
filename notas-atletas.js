@@ -83,4 +83,5 @@ let atletas = [
  }
 ];
 let notasAtletas = new NotasAtletas(atletas);
+
 notasAtletas.listaFinal();
